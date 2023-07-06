@@ -1,23 +1,28 @@
-﻿# !yardim
- # https://youtu.be/itaownItIHQ
+﻿# !yardim / !help
 
-**!monu**
+- **!monu** (Next Monument)
 
-`Anlık zamana 90 dakika ekleyerek bir sonraki monu çıkış saatini belirler. Monu kesildiği an yazılmalıdır.`
+   Determines the next monument spawn time. It should be used immediately after the monument is killed.
 
-**!dv2monu**
+- **!monu2** (Next DV2 Monument)
 
-`!monu komutunun aynısı Dv2 için`
+   The DV2 version of the `!monu` command.
 
-**!monu-x**
+- **!log** (Log)
 
-`Monu saatini x dakika çıkararak söyler. Ör: !monu-5 anlık zamana 90 yerine 85 dakika ekler.`
+   Displays the recent times recorded by the bot.
 
-**!monureset**
-
-`Tüm monu zamanlarını resetler ve komut tekrarı kısıtlamalarını kaldırır.`
-
-**!log**
-
-`Bot tarafından girilmiş son zamanları gösterir.`
-
+Additional helper commands:
+- `!rün` or `!rune` (Runes): Rune system
+- `!craft` or `!meslek` or `!meslekler` (Craft or Professions): Craft system and professions
+- `!weaponcraft` or `!silahcraft` (Weapon Craft): Weapon crafting system
+- `!jewelcraft` or `!takıcraft` (Jewel Craft): Jewel crafting system
+- `!clan` or `!klan` (Clan): Clan buildings and their features
+- `!silah` or `!weapons` (Weapons): In-game weapons
+- `!takı` or `!accessories` (Accessories): In-game accessories
+- `!belt` or `!kemer` (Belts): In-game belts
+- `!ring` or `!yüzük` (Rings): In-game rings
+- `!küpe` or `!earring` (Earrings): In-game earrings
+- `!neck` or `!kolye` or `!pendant` (Necklaces): In-game necklaces
+- `!hata` or `!error` (Errors): All errors and their solutions
+- `!upgrade` (Upgrade): Upgrade success rates
