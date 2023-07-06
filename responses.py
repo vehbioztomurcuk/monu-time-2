@@ -1,3 +1,13 @@
+import random
+import datetime
+from datetime import timedelta
+import pytz
+
+
+log = [] 
+last_monu_time = None
+last_monu2_time = None
+
 def get_response(message: str) -> str:
     p_message = message.lower()
 
